@@ -3,21 +3,21 @@ Smart Alley Alert System adalah sistem peringatan otomatis berbasis computer vis
 
 📋 Table of Contents
 
-Overview
-Problem Statement
-Solution
-Tech Stack
-System Architecture
-Features
-Hardware Requirements
-Installation
-Usage
-Demo
-Project Scope & Limitations
-Future Improvements
-Contributing
-License
-Contact
+- Overview
+- Problem Statement
+- Solution
+- Tech Stack
+- System Architecture
+- Features
+- Hardware Requirements
+- Installation
+- Usage
+- Demo
+- Project Scope & Limitations
+- Future Improvements
+- Contributing
+- License
+- Contact
 
 
 🎯 Overview
